@@ -1,4 +1,4 @@
-# Angle Calculator between minute-hand and hour-hand
+# Ideal Clock
 ## Notes
 - This project developed in a macOS 11.6 machine using Python 3.8 and tested in Ubuntu 20.04.4 LTS version.
 - All the libraries used in this project are python standard libraries.
