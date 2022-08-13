@@ -43,8 +43,8 @@ ERROR:root:Invalid time format! Use ":" for the time splitter.
 - The input file path should be given as an argument.
 - The input csv file should consist of only one column which has the time values.
 - The results can be visible in "results.csv" file, after the execution of the "bonus.py" script.
-- The output csv file consist of two columns(angel and clockwise). 
-- Angel column represents the angle in between the hands. 
+- The output csv file consist of two columns(angle and clockwise). 
+- Angle column represents the angle in between the hands. 
 - Clockwise true means, minute-hand is X degree clockwise from hour-hand. Counter-clockwise on false.
 - If the format of a value in the input file is not correct, this value is skipped and an information log is printed on 
 the console as given in the sample output.
